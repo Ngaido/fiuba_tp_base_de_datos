@@ -3,15 +3,15 @@
 Autor: Nicolas Gaido.
 Padron: 100856.
 
-# Como iniciar la aplicacion:
+## Como iniciar la aplicacion:
 
-# Iniciar backend
+### Iniciar backend
 
     cd backend
     node server.js
 
 
-# Iniciar frontend
+### Iniciar frontend
 
     cd frontend
     npm run start
